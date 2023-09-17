@@ -1,0 +1,7 @@
+name=Creatures
+author=Reid & West
+description=Turn the crank for random creatures
+bundleID=co.reidw
+version=1.0
+buildNumber=1
+imagePath=/images/launcher
